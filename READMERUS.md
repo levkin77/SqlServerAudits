@@ -23,4 +23,8 @@
     FAILED_LOGIN_GROUP
     SUCCESSFUL_LOGIN_GROUP
 
+Результат
+
+![result](/img/SqlServerSimpleLoginAudit_1.png "Результат в окне просмотра в SSMS")
+
 ---

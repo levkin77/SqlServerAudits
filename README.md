@@ -22,4 +22,8 @@ Sql scripts for admins to make audit
     FAILED_LOGIN_GROUP
     SUCCESSFUL_LOGIN_GROUP
 
+Result in ssms
+
+![result](/img/SqlServerSimpleLoginAudit_1.png "Result in SSMS")
+
 ---
