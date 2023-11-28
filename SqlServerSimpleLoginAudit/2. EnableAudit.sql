@@ -1,4 +1,4 @@
 USE [master]
-GO
+go
 alter server audit [SQL_Server_Audit] with(State=ON)
-GO
+go
